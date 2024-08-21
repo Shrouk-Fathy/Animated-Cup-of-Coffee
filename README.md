@@ -1,12 +1,12 @@
-Animated Cup of Coffee with Steam
+### Animated Cup of Coffee with Steam
+
 This project features an animated cup of coffee with steam effects created using HTML and CSS. The animation replicates the visual experience of steam rising from a cup of coffee.
 
-Usage
-Clone the repository:
-bash
+#### Usage
 
-Copy
-git clone https://github.com/Shrouk-Fathy/Animated-Cup-of-Tea.git
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Shrouk-Fathy/Animated-Cup-of-Tea.git
 Open the index.html file in your web browser to view the animated cup of coffee with steam effect.
 Preview
 Witness the live demonstration of the animated cup of coffee with steam [here](https://shrouk-fathy.github.io/Animated-Cup-of-Coffee/).
