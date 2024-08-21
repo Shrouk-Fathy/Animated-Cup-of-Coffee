@@ -22,4 +22,3 @@ This project is licensed under the MIT License - see the LICENSE file for more d
 
 Feel free to provide any feedback or suggestions for further improvements. Enjoy your virtual cup of coffee! ☕🌬️
 
-In this README file, the project has been updated to feature an animated cup of coffee with steam effects. You can further customize this text as needed for your project.
